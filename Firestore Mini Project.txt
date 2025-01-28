@@ -1,0 +1,26 @@
+Project Criteria:
+1. Database:
+	- Cloud Firestore
+	- Real-time updates for added or modified
+	- Data Validation and Security
+	- Search and Filter
+	- Configure Firestore indexing for optimal query performance
+2. User Authentication: Sign-up and log-in functionality using Firebase Authentication with email and password.
+3. UI: Use Bootstrap for a responsive and clean design.
+4. Business Logic:
+	- At least 2 entities with minimum relation one to many
+	- Provide full CRUD operation
+	- Logical Cycle should be done
+5. Technical:
+	- Use JavaScript Modules for code hiding and security
+	- Use JavaScript regex for data validation
+	- Clean Code is a MUST
+
+Ideas:
+. Task Tracker 
+. Event Management
+. E-commerce
+. Personal Expense Tracker
+. Study Planner
+. Diet Planner
+. Food Ordering
