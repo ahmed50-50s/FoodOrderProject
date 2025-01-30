@@ -28,7 +28,7 @@
     try{
         await createUserWithEmailAndPassword(auth, email, password);
         alert("login successfylly")
-        window.location.href = 'login.html';
+        window.location.href = 'index.html';
     }catch{
         alert("error")
     }
